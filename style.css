@@ -8776,7 +8776,7 @@ td.actions {
 	padding: 8px 22px;
 	font-size: 0.875rem;
 	line-height: 24px;
-	background-color: #1ABC9C;
+	background-color: #1b9ae0;
 	color: #FFF;
 	font-weight: 700;
 	text-transform: uppercase;
@@ -8796,13 +8796,12 @@ body:not(.device-touch) .button {
 }
 
 .button.button-light {
-	background-color: #EEE;
-	color: #333;
+	color: #FFF;
 	text-shadow: none !important;
 }
 
 .button:hover {
-	background-color: #444;
+	background-color: #36454F;
 	color: #FFF;
 	text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
 }
