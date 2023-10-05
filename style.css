@@ -148,13 +148,12 @@ dl, dt, dd, ol, ul, li {
 
 body {
 	line-height: 1.5;
-	color: #333;
-	font-family: var(--font-family-sans-serif);
+	color: #222;
 }
 
 a {
 	text-decoration: none !important;
-	color: #1ABC9C;
+	color: #1B9AE0;
 }
 
 a:hover { color: #222; }
