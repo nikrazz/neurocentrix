@@ -120,7 +120,7 @@ dl, dt, dd, ol, ul, li {
 }
 
 ::selection {
-	background: #1ABC9C;
+	background: #1b9ae0;
 	color: #FFF;
 	text-shadow: none;
 }
@@ -6460,7 +6460,7 @@ body:not(.has-plugin-html5video) .video-wrap video {
 
 #page-title.page-title-parallax h1 {
 	font-size: 40px;
-	font-weight: 600;
+	font-weight: 700;
 	letter-spacing: 2px;
 }
 
