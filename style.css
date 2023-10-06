@@ -7500,10 +7500,6 @@ body:not(.device-touch) .portfolio {
 	text-transform: none;
 }
 
-.entry-title h2 a,
-.entry-title h3 a,
-.entry-title h4 a { color: #333; }
-
 .entry-title h2 a:hover,
 .entry-title h3 a:hover,
 .entry-title h4 a:hover { color: #1ABC9C; }
