@@ -154,7 +154,7 @@ body {
 
 a {
 	text-decoration: none !important;
-	color: #1ABC9C;
+	color: var(--primary);
 }
 
 a:hover { color: #222; }
