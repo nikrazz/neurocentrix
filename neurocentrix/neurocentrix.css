@@ -840,7 +840,7 @@ body:not(.floating-contact-processing) .floating-contact-loader { display: none;
 	position: absolute;
 	bottom: -11px;
 	left: 0;
-	background-image: url('images/divider-5.svg');
+	background-image: url('images/divider.svg');
 	background-repeat: no-repeat;
 	background-position: top center;
 	background-size: 100% 20px;
